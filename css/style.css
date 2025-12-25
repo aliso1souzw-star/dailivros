@@ -28,7 +28,7 @@ body{
 
 .vabar{
     width: 100%;
-    background-color: rgba(161, 126, 171, 0.655);
+    background-color: /*rgba(161, 126, 171, 0.655)*/black;
     padding: 15px 150px;
     box-shadow: 15px 10px 10px 2px rgba(0, 0, 0, 0.619);
     border-radius: 5px;
@@ -471,4 +471,5 @@ li.slick-active button{
     .sint{
         margin-top: 47px;
     }
+
 }
